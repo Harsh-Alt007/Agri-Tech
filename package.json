@@ -1,0 +1,19 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "etService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/earthengine": "^1.7.31",
+    "@google/genai": "^2.8.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
